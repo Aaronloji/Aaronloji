@@ -4,10 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=2DA44E&center=true&vCenter=true&width=500&lines=Ingeniero+en+Sistemas;Desarrollador+Full+Stack;Especialista+en+Automatizaciones" alt="Ingeniero en Sistemas, Desarrollador Full Stack, Especialista en Automatizaciones" />
 </p>
 
-## 👋 Sobre mí
-
-Actualmente trabajo en AASA donde desarrollo soluciones tecnológicas innovadoras. Busco una sólida trayectoria en una organización que ofrezca estabilidad laboral, donde pueda aplicar mis habilidades y experiencia en diversas áreas de la empresa, y seguir creciendo profesionalmente para contribuir eficazmente al cumplimiento de las responsabilidades asignadas.
-
 ---
 
 ## 🛠️ Habilidades Técnicas
@@ -67,31 +63,11 @@ Desarrollo e implementación de chatbots inteligentes para:
 
 ---
 
-## 💼 Experiencia Laboral
-
-- **Pasante de Desarrollador Web y Backend**  
-  AASA | Feb 2025 - Actualmente  
-  *Desarrollo de aplicaciones web con React en frontend y Python en backend. Creación de APIs RESTful, gestión de bases de datos PostgreSQL e implementación de soluciones de automatización y chatbots.*
-
-  **Tecnologías utilizadas:** Python, React, PostgreSQL, APIs REST, Git
-
----
-
-## 🌐 Idiomas
-
-- **Español** - Nativo
-- **Inglés** - Nivel B2+
-
----
-
 ## 📫 Contacto
 
 <p align="center">
   <a href="mailto:aaronloji@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="tel:+50672849920">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Teléfono"/>
   </a>
   <a href="https://www.google.com/maps/place/San+José,+Costa+Rica">
     <img src="https://img.shields.io/badge/San_José,_Costa_Rica-2DA44E?style=for-the-badge" alt="Ubicación"/>
