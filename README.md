@@ -46,3 +46,4 @@ Spanish (native) · English (B2)
 
 - Portfolio: https://aaronlopez-dev.higgsfield.app
 - Email: aaronloji@gmail.com
+- LinkedIn: https://www.linkedin.com/in/aaronloji/
