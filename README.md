@@ -35,7 +35,7 @@ Internal systems development plus infrastructure: networks, servers, support and
 
 ## Education & certifications
 
-- Ingeniería en Sistemas — Universidad Fidélitas (in progress)
+- B.Sc. in Systems Engineering (Bachillerato en Ingeniería en Sistemas) — Universidad Fidélitas
 - Cisco CCNA 1 & CCNA 2
 
 ## Languages
