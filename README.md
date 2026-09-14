@@ -24,8 +24,8 @@ Open to remote roles (full-time or contract) in backend, full-stack or IT infras
 
 | Project | What it is | Stack |
 |---|---|---|
-| [inventory-api](https://github.com/Aaronloji/inventory-api) | REST API for inventory control: JWT auth, role-based access, immutable stock-movement history, auto-generated OpenAPI docs, 18 tests | Flask · PostgreSQL · Docker |
-| [inventory-dashboard](https://github.com/Aaronloji/inventory-dashboard) | React interface for that API: login with token refresh, CRUD, role-aware UI | React · Vite · Axios |
+| [inventory-api](https://github.com/Aaronloji/inventory-api) — [live docs](https://inventory-api-xdk7.onrender.com/docs) | REST API for inventory control: JWT auth, role-based access, immutable stock-movement history, auto-generated OpenAPI docs, 18 tests | Flask · PostgreSQL · Docker |
+| [inventory-dashboard](https://github.com/Aaronloji/inventory-dashboard) — [live demo](https://inventory-dashboard-mfxf.onrender.com) | React interface for that API: login with token refresh, CRUD, role-aware UI. Demo login: `admin` / `admin1234` | React · Vite · Axios |
 | [stackbitcr.com](https://stackbitcr.com) | Web design and development studio I run for small businesses in Costa Rica | — |
 
 ## Experience
